@@ -1,0 +1,158 @@
+/*
+
+github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+
+*/
+
+.hljs {
+	margin-top:1px;
+	 margin-bottom:1px; 
+	 padding:0.5em;
+  display: block;
+  /* border-top:1px raised ;
+  border-bottom:1px outset ;
+  border-left:1px outset ;
+  border-right:1px outset;  */
+  border: 1px inset;
+  font-size:14px;
+  background-image: linear-gradient(to right, #fffff2 50%, #fffff1 50%);
+  -webkit-text-size-adjust: none; 
+   color:maroon;  
+   /* overflow: auto;
+    -ms-word-wrap: normal;
+    word-wrap: normal;
+    overflow-wrap: normal;
+    white-space: pre;
+    max-height: 340px; */
+	
+	/* width:100%;
+  overflow-x:auto;
+ white-space: pre-wrap; */
+}
+
+
+
+.hljs-comment,
+.diff .hljs-header,
+.hljs-javadoc {
+   color: #707180; 
+  font-style: italic;
+  font-size:14px;
+}
+
+.hljs-keyword,
+.css .rule .hljs-keyword,
+.hljs-winutils,
+.nginx .hljs-title,
+.hljs-subst,
+.hljs-request,
+.hljs-status {
+  color:#DB7C6D;
+  font-weight: normal;
+  font-size:14px;
+}
+
+.hljs-number,
+.hljs-hexcolor,
+.ruby .hljs-constant {
+  color: blue;
+  font-size:14px;
+}
+
+.hljs-string,
+.hljs-tag .hljs-value,
+.hljs-phpdoc,
+.hljs-dartdoc,
+.tex .hljs-formula {
+  color: teal;
+  font-size:15px;
+}
+
+.hljs-title,
+.hljs-id,
+.scss .hljs-preprocessor {
+  color:red;
+  font-weight: normal;
+}
+
+.hljs-list .hljs-keyword,
+.hljs-subst {
+  font-weight: normal;
+  color:maroon;
+}
+
+.hljs-class .hljs-title,
+.hljs-type,
+.vhdl .hljs-literal,
+.tex .hljs-command {
+  color: #lightgray;
+  font-weight: normal;
+}
+
+.hljs-tag,
+.hljs-tag .hljs-title,
+.hljs-rules .hljs-property,
+.django .hljs-tag .hljs-keyword {
+  color: #abcdef;
+  font-weight: normal;
+}
+
+.hljs-attribute,
+.hljs-variable,
+.lisp .hljs-body {
+  color: teal;
+  font-size:14px;
+}
+
+.hljs-regexp {
+  color: #009926;
+}
+
+.hljs-symbol,
+.ruby .hljs-symbol .hljs-string,
+.lisp .hljs-keyword,
+.clojure .hljs-keyword,
+.scheme .hljs-keyword,
+.tex .hljs-special,
+.hljs-prompt {
+  color: #990073;
+  font-size:14px;
+}
+
+.hljs-built_in {
+  color: #0086b3;
+  font-size:14px;
+}
+
+.hljs-preprocessor,
+.hljs-pragma,
+.hljs-pi,
+.hljs-doctype,
+.hljs-shebang,
+.hljs-cdata {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.diff .hljs-change {
+  background: #0086b3;
+}
+
+.hljs-chunk {
+  color: #aaa;
+}
+
+.hljs-function > .hljs-keyword {
+  	color:maroon;
+   font-style: italic;
+   font-weight: normal;
+
+}

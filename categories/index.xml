@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Shakil Blogs</title>
+    <link>http://ShakilSayyed.github.io/shakil-blogs/categories/</link>
+    <description>Recent content in Categories on Shakil Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>(c) 2017 adamleo.</copyright>
+    <atom:link href="/shakil-blogs/categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Js</title>
+      <link>http://ShakilSayyed.github.io/shakil-blogs/categories/js/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ShakilSayyed.github.io/shakil-blogs/categories/js/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
