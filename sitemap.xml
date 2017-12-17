@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ShakilSayyed.github.io/shakil-blogs/posts/js/history-of-javascript/</loc>
+    <loc>http://ShakilSayyed.github.io/posts/js/history-of-javascript/</loc>
     <lastmod>2016-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ShakilSayyed.github.io/shakil-blogs/tags/</loc>
-    <lastmod>2016-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ShakilSayyed.github.io/shakil-blogs/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ShakilSayyed.github.io/shakil-blogs/categories/js/</loc>
+    <loc>http://ShakilSayyed.github.io/tags/</loc>
     <lastmod>2016-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ShakilSayyed.github.io/shakil-blogs/posts/</loc>
+    <loc>http://ShakilSayyed.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ShakilSayyed.github.io/categories/js/</loc>
     <lastmod>2016-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ShakilSayyed.github.io/shakil-blogs/</loc>
+    <loc>http://ShakilSayyed.github.io/posts/</loc>
     <lastmod>2016-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ShakilSayyed.github.io/shakil-blogs/tags/</loc>
+    <loc>http://ShakilSayyed.github.io/</loc>
+    <lastmod>2016-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ShakilSayyed.github.io/tags/</loc>
     <lastmod>2016-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

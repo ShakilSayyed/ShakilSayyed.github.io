@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shakil Blogs</title>
-    <link>http://ShakilSayyed.github.io/shakil-blogs/tags/</link>
+    <link>http://ShakilSayyed.github.io/tags/</link>
     <description>Recent content in Tags on Shakil Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>(c) 2017 adamleo.</copyright>
     <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/shakil-blogs/tags/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://ShakilSayyed.github.io/shakil-blogs/tags/</link>
+      <link>http://ShakilSayyed.github.io/tags/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ShakilSayyed.github.io/shakil-blogs/tags/</guid>
+      <guid>http://ShakilSayyed.github.io/tags/</guid>
       <description></description>
     </item>
     
